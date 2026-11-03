@@ -1,6 +1,6 @@
 # Guilherme Setton
 
-Estudante de Engenharia da Computação na POLI-UPE, em Recife. Programo principalmente em Python e SQL, e meu interesse é em dados e inteligência artificial.
+Estudante de Engenharia da Computação na POLI-UPE, em Recife. Programo principalmente em Python e SQL, e meu interesse é em Cybersegurança e inteligência artificial.
 
 ## Projetos
 
